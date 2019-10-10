@@ -1,4 +1,4 @@
-# Simple Log parser
+# Simple Log Parser
 
 ## Usage
 Run `go build` to create an executable
